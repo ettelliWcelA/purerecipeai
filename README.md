@@ -17,6 +17,6 @@ Payments are processed securely by Stripe. We do not receive or store your payme
 We do not sell, rent, or share any user data with third parties.
 
 **Contact**
-If you have any questions, feel free to reach out via X (@yourhandle).
+If you have any questions, feel free to reach out via X (@AlecBuildsAI).
 
 This policy may be updated occasionally.
