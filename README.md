@@ -1,0 +1,2 @@
+# purerecipeai
+Privacy Policy
