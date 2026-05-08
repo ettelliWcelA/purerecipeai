@@ -1,22 +1,15 @@
-Privacy Policy for PureRecipe AI
+PureRecipe AI Privacy Policy
 
-Last updated: April 2026
+Last Updated: May 2026
 
-PureRecipe AI is a Chrome extension that helps users clean recipe webpages.
+1. Information We Collect
+PureRecipe AI is designed to work with minimal data. We do not require account creation or email registration. We collect the text content of recipe webpages only when you click the "Clean" button.
 
-**Data Collection**
-- We do not collect any personal information.
-- Your AI API key (Grok, OpenAI, or Claude) is stored **locally** on your device only and is never sent to our servers.
-- When you use the extension, we temporarily read the content of the current webpage **only** to extract the recipe. This data is processed client-side and is not stored or transmitted anywhere.
-- Pro status (activated after payment) is stored locally on your device.
+2. How We Use Data
+The extracted text is transmitted via an encrypted connection to a secure proxy server to be processed by Gemini AI. This is used solely to identify and format ingredients and instructions.
 
-**Payments**
-Payments are processed securely by Stripe. We do not receive or store your payment information.
+3. Data Retention
+We do not store recipe text, processed results, or user metadata on our servers. All processing is ephemeral. Local settings (like your Pro status and daily clean count) are stored locally on your device using Chrome's storage.local API.
 
-**No Data Sharing**
-We do not sell, rent, or share any user data with third parties.
-
-**Contact**
-If you have any questions, feel free to reach out via X (@AlecBuildsAI).
-
-This policy may be updated occasionally.
+4. Third-Party Services
+We use Google Gemini for AI processing and Cloudflare for secure proxying. These services do not receive any personally identifiable information from PureRecipe AI.
